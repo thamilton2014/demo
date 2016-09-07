@@ -5,6 +5,8 @@ application up and running.
 
 Things you may want to cover:
 
+https://www.railstutorial.org/book/sign_up
+
 * Ruby version
 
 * System dependencies
